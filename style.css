@@ -1,0 +1,119 @@
+body {
+    color: #40514E;
+    margin: 0;  text-align: center;
+    font-family: 'Merriweather', serif;
+    /* background-color: #afcfcf; */
+  }
+  
+  h1 {
+    color: #222323;
+    font-size: 5.625rem;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: white;
+    text-shadow: 4px 4px 4px rgba(7, 7, 7, 0.867);
+  }
+  
+  h2 {
+    color: #404444;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    margin: 50px auto 0 auto;
+    font-size: 2.0rem;
+    padding-bottom: 10px;
+  }
+  
+  h3 {
+    color: #6c7070;
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: 2px 2px 3px rgba(7, 7, 7, 0.867);
+    color: white;
+  }
+  
+  p {
+    line-height: 2;
+  }
+  
+  hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+  
+  }
+  
+  a {
+    color: #adada8;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  
+  }
+  
+  a:hover {
+    color: #EAF6F6;
+  }
+  
+  .top-container {
+    background-color: #909797;
+    position: relative;
+    padding-top: 20px;
+  }
+  
+  .middle-container {
+    margin: 100px 0;
+  }
+  
+  .bottom-container {
+    background-color: #343535;
+    padding: 50px 0 20px;
+  }
+  
+  .pro {
+    text-decoration: underline;
+  }
+  
+  .intro {
+    width: 30%;
+    margin: auto;
+  }
+  
+  .contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+  }
+  
+  .copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
+ 
+ img {
+    /* position: absolute; */
+    /* right: 300px;
+    top: 40px; */
+    object-fit: cover;
+     width: 200px;
+     height: 200px;
+     border-radius: 50%;
+     box-shadow: 0px 0px 8px rgba(39, 39, 39, 0.867);
+  }
+  
+
+  .btn {
+    background: #3c3d3d;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  .btn:hover{
+    background: #999e9e;
+    color: #222323;
+  }
+  
+ 
